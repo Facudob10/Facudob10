@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 ## ***About me***
 
-I'm a systems engineering student at the UTN (University of Technology) in La Plata, Argentina. I'm an expert in C, C++, Python, Linux, Git, and React. I'm passionate about learning and creating something new, productive, innovative, and creative.
+I'm a student at the UTN (University of Technology) in La Plata, Argentina. I'm an expert in C, C++, Python, Linux, Git, and React. I'm passionate about learning and creating something new, productive, innovative, and creative.
 * **I am interested in web design and working in databases**
 - 👯 I’m looking forward to collaborate on open source projects.
 
